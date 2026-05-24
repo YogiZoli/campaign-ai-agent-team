@@ -1,0 +1,9 @@
+{
+  "name": "campaign-ai-agent-team",
+  "version": "0.1.0",
+  "description": "4-agent AI campaign team: Copy, Design, Campaign Logic, and Video Script agents. Builds complete marketing campaigns — from Click Sequence to PLF Launch — with isolated per-domain folder structures for multi-client management.",
+  "author": {
+    "name": "Zoltan Gero"
+  },
+  "keywords": ["campaign", "email", "copywriting", "marketing", "funnel", "youtube", "launch", "ghl"]
+}
