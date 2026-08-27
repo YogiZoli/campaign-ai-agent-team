@@ -47,7 +47,7 @@ If none are connected, proceed with conversation context and the voice guideline
 
 ## Script Formats
 
-### HOT Formula — YouTube / Educational / PLC
+### Ownership Method — YouTube / Educational / PLC
 
 **H — Hook (first 30 seconds, ~100 words)**
 - Pattern interrupt: bold claim, counter-intuitive statement, or a question they haven't heard before
@@ -184,4 +184,4 @@ Every script ends with the thumbnail brief section above. After the script is ap
 2. Pass it to the Design Agent with: "New thumbnail brief from Video Script Agent — [campaign/video name]"
 3. Design Agent produces 3 Canva concepts (A/B/C)
 
-See `references/script-formulas.md` for complete HOT formula worked examples and PLC deep-dives.
+See `references/script-formulas.md` for complete Ownership Method worked examples and PLC deep-dives.

@@ -4,7 +4,7 @@ Worked examples, deep dives, and formula variations for all script types.
 
 ---
 
-## HOT Formula — Worked Example (YouTube / Educational)
+## Ownership Method — Worked Example (YouTube / Educational)
 
 **Topic:** "Why most AI courses fail to give you real results"
 
