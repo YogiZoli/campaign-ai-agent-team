@@ -159,7 +159,7 @@ THUMBNAIL BRIEF → DESIGN AGENT
 Concept: "Most AI courses teach the wrong thing — here's what actually works"
 Face expression: Slightly raised eyebrow — "I know something you don't"
 Text overlay (max 6 words): "AI Courses Are Teaching This Wrong"
-Background: Deep navy #1A1A2E with orange accent stripe
+Background: Dark navy #0E2038 with green #24A957 accent stripe (brand v2, see BRAND-GUIDE.md)
 Visual element: Split screen — red X on "TOOLS" / green check on "SYSTEMS"
 Emotional hook: Curiosity + mild provocation
 A/B test:
