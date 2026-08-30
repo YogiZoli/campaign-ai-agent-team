@@ -25,6 +25,18 @@ Check `campaigns/_active_domain.md` for:
 
 If not set, tell the user to run Campaign Manager first.
 
+## Brand Canon — Zoltan Gero (v2)
+
+Brand: lásd BRAND-GUIDE.md, gép-értékek tokens.css. Kánon: git@github.com:YogiZoli/design-system.git (helyi: C:/Users/gdp/projects/design-system). Every brief below uses these values, do not invent a palette.
+
+- Brand azure `#1E7CE8`: links, header, logo mark, dark-section headings.
+- Primary CTA: green `#0E8542` solid fill, white text (about 4.7:1). Secondary button: azure `#1663C6` solid fill, white text.
+- Page background `#F6F8FC` · surface or card `#FFFFFF` · body text `#1E2733` · muted text `#6A7688` · border `#E0E6F0`.
+- Dark section, footer, thumbnail bg `#0E2038` or `#15355F`, text on it `#FFFFFF` or `#82B0F7`, green `#24A957` pop.
+- Status only: success `#0B7A3E` · warning `#E5A400` · danger `#E5484D`.
+- Font: Open Sans everywhere (headline 700 or 800, body 400). Data and counters: Geist Mono.
+- Every button is a solid fill with white text at 4.5:1 or better. Never dark text on a mid-tone fill. Never more than 3 brand colours per design unit.
+
 ## Design Principles
 
 - Clean and minimal — white space is intentional, not empty
@@ -52,11 +64,12 @@ Save to: campaigns/{DomainName}/{CampaignFolder}/design/
 STYLE
 ------
 Visual style: [Minimal / Bold / Warm / Professional]
-Primary color: [hex code + name]
-Secondary color: [hex code + name]
-Accent color: [hex code + name, if needed]
-Font — Headline: [Font name available in Canva Free]
-Font — Body: [Font name available in Canva Free]
+Primary color: #0E8542 Green (primary CTA, solid fill, white text)
+Secondary color: #1663C6 Azure (secondary button, links, solid fill, white text)
+Brand / accent: #1E7CE8 Azure · dark sections #0E2038
+Background: #F6F8FC · Surface: #FFFFFF · Body text: #1E2733 · Border: #E0E6F0
+Font — Headline: Open Sans (700 / 800)
+Font — Body: Open Sans (400)
 
 LAYOUT
 ------
@@ -133,11 +146,11 @@ Recommended test: [which to run first and why]
 - Instagram story/reel cover: 1080x1920px
 - Facebook post: 1200x628px
 
-## Canva Free Font Recommendations
+## Canva Free Fonts
 
-Headline options (bold, readable): Montserrat Bold, Raleway Bold, Playfair Display
-Body options (clean, readable): Lato, Open Sans, Source Sans Pro
-Accent/quote: Merriweather Italic, Cormorant Garamond
+Open Sans is the brand font and is available in Canva Free. Use it for every asset:
+headline in Open Sans Bold (700) or Extrabold (800), body in Open Sans Regular (400).
+Do not substitute another font without an explicit request from the operator.
 
 ## Thumbnail Brief (Incoming from Video Script Agent)
 
