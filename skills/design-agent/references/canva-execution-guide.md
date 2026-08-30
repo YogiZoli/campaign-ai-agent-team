@@ -61,7 +61,7 @@ Practical tips for executing each asset type in Canva Free. Include the relevant
 **Step-by-step:**
 1. Create custom size: 1280x720px
 2. Background: bold solid color (not too light — needs contrast on YouTube dark/light mode)
-3. Add text overlay: max 6 words, use Montserrat ExtraBold or Raleway Heavy
+3. Add text overlay: max 6 words, use Open Sans Extrabold (800)
 4. Text positioning: left 60% of canvas (leave right 40% for face)
 5. Add presenter photo (PNG with transparent background): place right side
 6. Optional: colored shape/arrow pointing toward text
@@ -105,17 +105,16 @@ Practical tips for executing each asset type in Canva Free. Include the relevant
 
 ---
 
-## Color Palette Recommendations for ZoltanGero
+## Colour Palette — Zoltan Gero (v2)
 
-Primary: #1A1A2E (deep navy — authority, calm)
-Secondary: #E94560 (warm red/coral — energy, urgency when needed)
-Accent: #F5F5F5 (off-white — clean backgrounds)
-Text on dark: #FFFFFF
-Text on light: #1A1A2E
+Canon: BRAND-GUIDE.md and tokens.css (git@github.com:YogiZoli/design-system.git). One palette, every asset, every domain. Do not invent or substitute.
 
-Alternative warm palette:
-Primary: #2D2D2D (near-black)
-Secondary: #D4A853 (gold — premium, value)
-Accent: #F8F8F0 (warm white)
+Primary CTA: #0E8542 Green (solid fill, white text, about 4.7:1)
+Secondary button: #1663C6 Azure (solid fill, white text, about 5.8:1)
+Brand and links: #1E7CE8 Azure
+Page background: #F6F8FC   Surface or card: #FFFFFF
+Body text: #1E2733   Muted text: #6A7688   Border: #E0E6F0
+Dark section, footer, thumbnail background: #0E2038 or #15355F (text on it #FFFFFF or #82B0F7, green pop #24A957)
+Status only: success #0B7A3E, warning #E5A400, danger #E5484D
 
-Use one palette consistently per domain. Do not mix palettes across campaigns.
+Every button is a solid fill with white text at 4.5:1 or better. Never dark text on a mid-tone fill. Never more than 3 brand colours in one design unit.
